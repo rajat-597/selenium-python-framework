@@ -27,10 +27,17 @@ jobs:
     - name: Install Allure CLI
       run: |
         sudo apt update
-        sudo apt install -y default-jre
-        wget https://github.com/allure-framework/allure2/releases/latest/download/allure-commandline.zip
-        unzip allure-commandline.zip -d /opt/allure
-        sudo ln -s /opt/allure/bin/allure /usr/bin/allure
+        sudo apt install -y default-jre unzip jq
+
+        LATEST_URL=$(curl -s https://api.github.com/repos/allure-framework/allure2/releases/latest \
+          | jq -r '.assets[] | select(.name | endswith(".zip")) | .browser_download_url')
+
+        echo "Downloading Allure from: $LATEST_URL"
+
+        wget $LATEST_URL -O allure.zip
+        unzip allure.zip -d /opt/allure
+
+        sudo ln -s /opt/allure/allure-*/bin/allure /usr/bin/allure
 
     - name: Run Tests
       run: |
