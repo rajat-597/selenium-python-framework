@@ -1,0 +1,3 @@
+[32mINFO    [0m automation:test_Login.py:29 *************** Test Login **********************
+[32mINFO    [0m automation:test_Login.py:30 *************** verifying After login title  **********************
+[32mINFO    [0m automation:test_Login.py:40 *************** Login Successful **********************

@@ -1,0 +1,24 @@
+[32mINFO    [0m automation:test_Cart.py:16 **************** Test HomePage *******************
+[32mINFO    [0m automation:test_Cart.py:27 **************** Title is correct,We have sucessfully selected the products *******************
+[1m[31mERROR   [0m automation:test_Cart.py:36 Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78

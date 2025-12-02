@@ -1,0 +1,874 @@
+11/27/2025 06:46:44 PM: INFO: *************** TestLogin **********************
+11/27/2025 06:46:44 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 06:46:49 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 07:16:47 PM: INFO: *************** TestLogin **********************
+11/27/2025 07:16:47 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 07:16:53 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 07:30:06 PM: INFO: *************** TestLogin **********************
+11/27/2025 07:30:06 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 07:30:11 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 07:34:24 PM: INFO: *************** TestLogin **********************
+11/27/2025 07:34:24 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 07:34:26 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 07:38:09 PM: INFO: *************** TestLogin **********************
+11/27/2025 07:38:09 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 07:38:14 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 07:42:27 PM: INFO: *************** TestLogin **********************
+11/27/2025 07:42:27 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 07:42:28 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 07:44:55 PM: INFO: *************** TestLogin **********************
+11/27/2025 07:44:55 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 07:45:00 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 07:53:21 PM: INFO: *************** TestLogin **********************
+11/27/2025 07:53:21 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 07:53:25 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 08:01:52 PM: INFO: *************** TestLogin **********************
+11/27/2025 08:01:52 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 08:01:57 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 11:22:16 PM: INFO: *************** TestLogin **********************
+11/27/2025 11:22:16 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 11:22:23 PM: INFO: *************** verified Home page title successfully **********************
+11/27/2025 11:31:48 PM: INFO: *************** TestLogin **********************
+11/27/2025 11:31:48 PM: INFO: *************** verifying Home page title  **********************
+11/27/2025 11:31:56 PM: INFO: *************** verified Home page title successfully **********************
+11/28/2025 01:27:09 AM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 01:27:16 AM: INFO: Total rows: 5
+11/28/2025 01:27:16 AM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 01:27:20 AM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+11/28/2025 01:27:24 AM: INFO: Testing with username: Rajat179284, password: ajgsf
+11/28/2025 01:28:51 AM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 01:28:53 AM: INFO: Total rows: 5
+11/28/2025 01:28:53 AM: INFO: Testing with username: username, password: password
+11/28/2025 01:28:57 AM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 01:36:26 AM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 01:36:34 AM: INFO: Total rows: 5
+11/28/2025 01:36:34 AM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 01:36:38 AM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+11/28/2025 01:36:42 AM: INFO: Testing with username: Rajat179284, password: ajgsf
+11/28/2025 12:18:37 PM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 12:18:46 PM: INFO: Total rows: 5
+11/28/2025 12:18:46 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 12:18:50 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+11/28/2025 12:18:54 PM: INFO: Testing with username: Rajat179284, password: ajgsf
+11/28/2025 12:19:57 PM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 12:19:59 PM: INFO: Total rows: 5
+11/28/2025 12:19:59 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 12:20:03 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+11/28/2025 12:24:54 PM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 12:24:58 PM: INFO: Total rows: 5
+11/28/2025 12:24:58 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 12:29:52 PM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 12:29:54 PM: INFO: Total rows: 5
+11/28/2025 12:29:54 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 12:58:02 PM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 12:58:08 PM: INFO: Total rows: 5
+11/28/2025 12:58:08 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 12:58:12 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+11/28/2025 01:02:24 PM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 01:02:26 PM: INFO: Total rows: 5
+11/28/2025 01:02:26 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 01:03:47 PM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 01:03:53 PM: INFO: Total rows: 5
+11/28/2025 01:03:53 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 01:03:57 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+11/28/2025 01:03:59 PM: INFO: Testing with username: Rajat179284, password: ajgsf
+11/28/2025 01:04:01 PM: INFO: Testing with username: kunmun, password: bittu
+11/28/2025 01:14:11 PM: INFO: ******* Starting Login DDT Test **********
+11/28/2025 01:14:17 PM: INFO: Total rows: 5
+11/28/2025 01:14:17 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+11/28/2025 01:14:22 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+11/28/2025 01:14:24 PM: INFO: Testing with username: Rajat179284, password: ajgsf
+11/28/2025 01:14:26 PM: INFO: Testing with username: kunmun, password: bittu
+11/28/2025 02:52:02 PM: INFO: *************** TestLogin **********************
+11/28/2025 02:52:02 PM: INFO: *************** verifying Home page title  **********************
+11/28/2025 02:52:08 PM: INFO: *************** verified Home page title successfully **********************
+11/28/2025 03:00:01 PM: INFO: *************** Test HomePage Title **********************
+11/28/2025 03:00:01 PM: INFO: *************** verifying Home page title  **********************
+11/28/2025 03:00:06 PM: INFO: *************** verified Home page title successfully **********************
+11/28/2025 03:00:11 PM: INFO: *************** Test Login **********************
+11/28/2025 03:00:11 PM: INFO: *************** verifying After login title  **********************
+11/28/2025 03:00:13 PM: INFO: *************** Login Successful **********************
+11/28/2025 04:07:49 PM: INFO: *************** Test HomePage Title **********************
+11/28/2025 04:07:49 PM: INFO: *************** verifying Home page title  **********************
+11/28/2025 04:07:55 PM: INFO: *************** verified Home page title successfully **********************
+11/28/2025 04:08:00 PM: INFO: *************** Test Login **********************
+11/28/2025 04:08:00 PM: INFO: *************** verifying After login title  **********************
+11/28/2025 04:08:02 PM: INFO: *************** Login Successful **********************
+11/28/2025 04:15:11 PM: INFO: *************** Test HomePage Title **********************
+11/28/2025 04:15:11 PM: INFO: *************** verifying Home page title  **********************
+11/28/2025 04:15:17 PM: INFO: *************** verified Home page title successfully **********************
+11/28/2025 04:15:22 PM: INFO: *************** Test Login **********************
+11/28/2025 04:15:22 PM: INFO: *************** verifying After login title  **********************
+11/28/2025 04:16:50 PM: INFO: *************** Test HomePage Title **********************
+11/28/2025 04:16:50 PM: INFO: *************** verifying Home page title  **********************
+11/28/2025 04:16:53 PM: INFO: *************** verified Home page title successfully **********************
+11/28/2025 04:16:58 PM: INFO: *************** Test Login **********************
+11/28/2025 04:16:58 PM: INFO: *************** verifying After login title  **********************
+11/28/2025 04:17:01 PM: INFO: *************** Login Successful **********************
+11/28/2025 04:33:02 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:36:32 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:37:37 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:43:07 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:43:17 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 04:45:16 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:45:18 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 04:45:36 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:45:39 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 04:48:05 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:48:07 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 04:48:31 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:48:42 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 04:49:17 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:49:20 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 04:50:11 PM: INFO: **************** Test HomePage *******************
+11/28/2025 04:50:17 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:03:44 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:03:56 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:04:55 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:05:01 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:05:26 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:05:31 PM: INFO: **************** there is some issue with product selection *******************
+11/28/2025 05:07:54 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:08:00 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:09:18 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:09:29 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:11:27 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:11:32 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:14:53 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:15:05 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:16:09 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:16:15 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:30:01 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:30:16 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:31:26 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:31:31 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 05:56:17 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:56:52 PM: INFO: **************** Test HomePage *******************
+11/28/2025 05:56:55 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 06:02:05 PM: INFO: **************** Test HomePage *******************
+11/28/2025 06:03:41 PM: INFO: **************** Test HomePage *******************
+11/28/2025 06:03:45 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 06:04:22 PM: INFO: **************** Test HomePage *******************
+11/28/2025 06:17:22 PM: INFO: **************** Test HomePage *******************
+11/28/2025 06:17:35 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 06:21:00 PM: INFO: **************** Test HomePage *******************
+11/28/2025 06:26:05 PM: INFO: **************** Test HomePage *******************
+11/28/2025 06:37:36 PM: INFO: **************** Test HomePage *******************
+11/28/2025 06:37:43 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 06:37:53 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff759c3a235
+	0x7ff759992630
+	0x7ff7597216dd
+	0x7ff75977a27e
+	0x7ff75977a58c
+	0x7ff7597ced77
+	0x7ff7597cbaba
+	0x7ff75976b0ed
+	0x7ff75976bf63
+	0x7ff759c65d60
+	0x7ff759c5fe8a
+	0x7ff759c81005
+	0x7ff7599ad71e
+	0x7ff7599b4e1f
+	0x7ff75999b7c4
+	0x7ff75999b97f
+	0x7ff7599818e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/28/2025 06:39:41 PM: INFO: **************** Test HomePage *******************
+11/28/2025 06:39:45 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 06:39:56 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff759c3a235
+	0x7ff759992630
+	0x7ff7597216dd
+	0x7ff75977a27e
+	0x7ff75977a58c
+	0x7ff7597ced77
+	0x7ff7597cbaba
+	0x7ff75976b0ed
+	0x7ff75976bf63
+	0x7ff759c65d60
+	0x7ff759c5fe8a
+	0x7ff759c81005
+	0x7ff7599ad71e
+	0x7ff7599b4e1f
+	0x7ff75999b7c4
+	0x7ff75999b97f
+	0x7ff7599818e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/28/2025 07:16:05 PM: INFO: **************** Test HomePage *******************
+11/28/2025 07:18:25 PM: INFO: **************** Test HomePage *******************
+11/28/2025 07:18:28 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 07:18:38 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff759c3a235
+	0x7ff759992630
+	0x7ff7597216dd
+	0x7ff75977a27e
+	0x7ff75977a58c
+	0x7ff7597ced77
+	0x7ff7597cbaba
+	0x7ff75976b0ed
+	0x7ff75976bf63
+	0x7ff759c65d60
+	0x7ff759c5fe8a
+	0x7ff759c81005
+	0x7ff7599ad71e
+	0x7ff7599b4e1f
+	0x7ff75999b7c4
+	0x7ff75999b97f
+	0x7ff7599818e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/28/2025 07:29:50 PM: INFO: **************** Test HomePage *******************
+11/28/2025 07:29:58 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/28/2025 07:30:08 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff759c3a235
+	0x7ff759992630
+	0x7ff7597216dd
+	0x7ff75977a27e
+	0x7ff75977a58c
+	0x7ff7597ced77
+	0x7ff7597cbaba
+	0x7ff75976b0ed
+	0x7ff75976bf63
+	0x7ff759c65d60
+	0x7ff759c5fe8a
+	0x7ff759c81005
+	0x7ff7599ad71e
+	0x7ff7599b4e1f
+	0x7ff75999b7c4
+	0x7ff75999b97f
+	0x7ff7599818e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/29/2025 03:26:23 PM: INFO: **************** Test HomePage *******************
+11/29/2025 03:36:12 PM: INFO: **************** Test HomePage *******************
+11/29/2025 03:46:19 PM: INFO: **************** Test HomePage *******************
+11/29/2025 03:50:43 PM: INFO: **************** Test HomePage *******************
+11/29/2025 03:50:48 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/29/2025 03:50:59 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b525a235
+	0x7ff6b4fb2630
+	0x7ff6b4d416dd
+	0x7ff6b4d9a27e
+	0x7ff6b4d9a58c
+	0x7ff6b4deed77
+	0x7ff6b4debaba
+	0x7ff6b4d8b0ed
+	0x7ff6b4d8bf63
+	0x7ff6b5285d60
+	0x7ff6b527fe8a
+	0x7ff6b52a1005
+	0x7ff6b4fcd71e
+	0x7ff6b4fd4e1f
+	0x7ff6b4fbb7c4
+	0x7ff6b4fbb97f
+	0x7ff6b4fa18e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/29/2025 03:54:35 PM: INFO: **************** Test HomePage *******************
+11/29/2025 03:54:49 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/29/2025 03:54:59 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6b525a235
+	0x7ff6b4fb2630
+	0x7ff6b4d416dd
+	0x7ff6b4d9a27e
+	0x7ff6b4d9a58c
+	0x7ff6b4deed77
+	0x7ff6b4debaba
+	0x7ff6b4d8b0ed
+	0x7ff6b4d8bf63
+	0x7ff6b5285d60
+	0x7ff6b527fe8a
+	0x7ff6b52a1005
+	0x7ff6b4fcd71e
+	0x7ff6b4fd4e1f
+	0x7ff6b4fbb7c4
+	0x7ff6b4fbb97f
+	0x7ff6b4fa18e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/29/2025 03:56:16 PM: INFO: **************** Test HomePage *******************
+11/29/2025 03:56:21 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/29/2025 03:56:24 PM: INFO: Alert handled successfully after adding product to cart
+11/29/2025 03:58:38 PM: INFO: **************** Test HomePage *******************
+11/29/2025 03:58:42 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/29/2025 03:58:44 PM: INFO: Alert handled successfully after adding product to cart
+11/29/2025 08:53:01 PM: INFO: **************** Test HomePage *******************
+11/29/2025 08:53:11 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/29/2025 08:53:21 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c1d4a235
+	0x7ff6c1aa2630
+	0x7ff6c18316dd
+	0x7ff6c188a27e
+	0x7ff6c188a58c
+	0x7ff6c18ded77
+	0x7ff6c18dbaba
+	0x7ff6c187b0ed
+	0x7ff6c187bf63
+	0x7ff6c1d75d60
+	0x7ff6c1d6fe8a
+	0x7ff6c1d91005
+	0x7ff6c1abd71e
+	0x7ff6c1ac4e1f
+	0x7ff6c1aab7c4
+	0x7ff6c1aab97f
+	0x7ff6c1a918e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/29/2025 08:54:07 PM: INFO: **************** Test HomePage *******************
+11/29/2025 08:54:13 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/29/2025 08:54:23 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c1d4a235
+	0x7ff6c1aa2630
+	0x7ff6c18316dd
+	0x7ff6c188a27e
+	0x7ff6c188a58c
+	0x7ff6c18ded77
+	0x7ff6c18dbaba
+	0x7ff6c187b0ed
+	0x7ff6c187bf63
+	0x7ff6c1d75d60
+	0x7ff6c1d6fe8a
+	0x7ff6c1d91005
+	0x7ff6c1abd71e
+	0x7ff6c1ac4e1f
+	0x7ff6c1aab7c4
+	0x7ff6c1aab97f
+	0x7ff6c1a918e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/29/2025 08:55:59 PM: INFO: **************** Test HomePage *******************
+11/29/2025 08:56:05 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/29/2025 08:56:15 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c1d4a235
+	0x7ff6c1aa2630
+	0x7ff6c18316dd
+	0x7ff6c188a27e
+	0x7ff6c188a58c
+	0x7ff6c18ded77
+	0x7ff6c18dbaba
+	0x7ff6c187b0ed
+	0x7ff6c187bf63
+	0x7ff6c1d75d60
+	0x7ff6c1d6fe8a
+	0x7ff6c1d91005
+	0x7ff6c1abd71e
+	0x7ff6c1ac4e1f
+	0x7ff6c1aab7c4
+	0x7ff6c1aab97f
+	0x7ff6c1a918e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/29/2025 08:58:00 PM: INFO: **************** Test HomePage *******************
+11/29/2025 08:58:09 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+11/29/2025 08:58:19 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6c1d4a235
+	0x7ff6c1aa2630
+	0x7ff6c18316dd
+	0x7ff6c188a27e
+	0x7ff6c188a58c
+	0x7ff6c18ded77
+	0x7ff6c18dbaba
+	0x7ff6c187b0ed
+	0x7ff6c187bf63
+	0x7ff6c1d75d60
+	0x7ff6c1d6fe8a
+	0x7ff6c1d91005
+	0x7ff6c1abd71e
+	0x7ff6c1ac4e1f
+	0x7ff6c1aab7c4
+	0x7ff6c1aab97f
+	0x7ff6c1a918e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+11/29/2025 09:33:45 PM: INFO: **************** Test HomePage *******************
+11/29/2025 09:35:06 PM: INFO: **************** Test HomePage *******************
+11/29/2025 09:37:30 PM: INFO: **************** Test HomePage *******************
+11/29/2025 09:38:12 PM: INFO: **************** Test HomePage *******************
+11/29/2025 09:39:01 PM: INFO: **************** Test HomePage *******************
+11/29/2025 09:40:26 PM: INFO: **************** Test HomePage *******************
+11/29/2025 09:45:09 PM: INFO: **************** Test HomePage *******************
+11/29/2025 09:52:51 PM: INFO: **************** Test HomePage *******************
+11/29/2025 09:56:27 PM: INFO: **************** Test HomePage *******************
+11/29/2025 10:45:41 PM: INFO: **************** Test HomePage *******************
+11/29/2025 11:02:22 PM: INFO: **************** Test HomePage *******************
+12/01/2025 11:23:33 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:37:25 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:37:37 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/01/2025 11:37:39 AM: INFO: Alert handled successfully after adding product to cart
+12/01/2025 11:38:15 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:38:42 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:43:25 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:43:35 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/01/2025 11:43:36 AM: INFO: Alert handled successfully after adding product to cart
+12/01/2025 11:44:05 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:44:10 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/01/2025 11:44:11 AM: INFO: Alert handled successfully after adding product to cart
+12/01/2025 11:45:08 AM: INFO: ******* Starting Login DDT Test **********
+12/01/2025 11:45:10 AM: INFO: Total rows: 5
+12/01/2025 11:45:10 AM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/01/2025 11:45:15 AM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/01/2025 11:45:16 AM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/01/2025 11:45:19 AM: INFO: Testing with username: kunmun, password: bittu
+12/01/2025 11:48:43 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:49:30 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:50:05 AM: INFO: **************** Test HomePage *******************
+12/01/2025 11:50:16 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/01/2025 11:50:17 AM: INFO: Alert handled successfully after adding product to cart
+12/01/2025 11:50:19 AM: INFO: we have successfully landed to Cart Page
+12/01/2025 12:00:30 PM: INFO: **************** Test HomePage *******************
+12/01/2025 12:01:57 PM: INFO: **************** Test HomePage *******************
+12/01/2025 12:02:02 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/01/2025 12:02:04 PM: INFO: Alert handled successfully after adding product to cart
+12/01/2025 12:02:05 PM: INFO: we have successfully landed to Cart Page
+12/02/2025 09:01:51 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:06:18 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:06:45 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:07:18 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:07:57 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:09:04 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:09:53 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:10:48 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:10:59 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 09:11:10 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/02/2025 09:11:28 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:11:35 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 09:11:45 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/02/2025 09:12:07 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:12:13 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 09:12:16 PM: INFO: Alert handled successfully after adding product to cart
+12/02/2025 09:12:18 PM: INFO: we have successfully landed to Cart Page
+12/02/2025 09:16:29 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:16:40 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 09:16:42 PM: INFO: Alert handled successfully after adding product to cart
+12/02/2025 09:16:43 PM: INFO: we have successfully landed to Cart Page
+12/02/2025 09:17:18 PM: INFO: *************** Test HomePage Title **********************
+12/02/2025 09:17:18 PM: INFO: *************** verifying Home page title  **********************
+12/02/2025 09:17:20 PM: INFO: *************** verified Home page title successfully **********************
+12/02/2025 09:17:25 PM: INFO: *************** Test Login **********************
+12/02/2025 09:17:25 PM: INFO: *************** verifying After login title  **********************
+12/02/2025 09:17:28 PM: INFO: *************** Login Successful **********************
+12/02/2025 09:34:01 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:34:13 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 09:34:23 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/02/2025 09:34:29 PM: INFO: *************** Test HomePage Title **********************
+12/02/2025 09:34:29 PM: INFO: *************** verifying Home page title  **********************
+12/02/2025 09:34:31 PM: INFO: *************** verified Home page title successfully **********************
+12/02/2025 09:34:36 PM: INFO: *************** Test Login **********************
+12/02/2025 09:34:36 PM: INFO: *************** verifying After login title  **********************
+12/02/2025 09:34:39 PM: INFO: *************** Login Successful **********************
+12/02/2025 09:34:43 PM: INFO: ******* Starting Login DDT Test **********
+12/02/2025 09:34:45 PM: INFO: Total rows: 5
+12/02/2025 09:34:45 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/02/2025 09:34:48 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/02/2025 09:34:50 PM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/02/2025 09:34:51 PM: INFO: Testing with username: kunmun, password: bittu
+12/02/2025 09:34:59 PM: INFO: **************** Test HomePage *******************
+12/02/2025 09:35:03 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 09:35:05 PM: INFO: Alert handled successfully after adding product to cart
+12/02/2025 10:17:57 PM: INFO: **************** Test HomePage *******************
+12/02/2025 10:18:16 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 10:18:26 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/02/2025 10:20:45 PM: INFO: **************** Test HomePage *******************
+12/02/2025 10:20:56 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 10:21:00 PM: INFO: Alert handled successfully after adding product to cart
+12/02/2025 10:21:05 PM: INFO: we have successfully landed to Cart Page
+12/02/2025 10:21:10 PM: INFO: *************** Test HomePage Title **********************
+12/02/2025 10:21:10 PM: INFO: *************** verifying Home page title  **********************
+12/02/2025 10:21:13 PM: INFO: *************** verified Home page title successfully **********************
+12/02/2025 10:21:18 PM: INFO: *************** Test Login **********************
+12/02/2025 10:21:18 PM: INFO: *************** verifying After login title  **********************
+12/02/2025 10:21:21 PM: INFO: *************** Login Successful **********************
+12/02/2025 10:21:26 PM: INFO: ******* Starting Login DDT Test **********
+12/02/2025 10:21:29 PM: INFO: Total rows: 5
+12/02/2025 10:21:29 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/02/2025 10:21:33 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/02/2025 10:21:34 PM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/02/2025 10:21:37 PM: INFO: Testing with username: kunmun, password: bittu
+12/02/2025 10:21:44 PM: INFO: **************** Test HomePage *******************
+12/02/2025 10:21:48 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 10:21:50 PM: INFO: Alert handled successfully after adding product to cart
+12/02/2025 10:24:33 PM: INFO: **************** Test HomePage *******************
+12/02/2025 10:24:50 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 10:25:00 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/02/2025 10:25:06 PM: INFO: *************** Test HomePage Title **********************
+12/02/2025 10:25:06 PM: INFO: *************** verifying Home page title  **********************
+12/02/2025 10:25:09 PM: INFO: *************** verified Home page title successfully **********************
+12/02/2025 10:25:14 PM: INFO: *************** Test Login **********************
+12/02/2025 10:25:14 PM: INFO: *************** verifying After login title  **********************
+12/02/2025 10:25:17 PM: INFO: *************** Login Successful **********************
+12/02/2025 10:25:22 PM: INFO: ******* Starting Login DDT Test **********
+12/02/2025 10:25:24 PM: INFO: Total rows: 5
+12/02/2025 10:25:24 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/02/2025 10:25:30 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/02/2025 10:25:31 PM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/02/2025 10:25:34 PM: INFO: Testing with username: kunmun, password: bittu
+12/02/2025 10:25:41 PM: INFO: **************** Test HomePage *******************
+12/02/2025 10:25:46 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 10:25:48 PM: INFO: Alert handled successfully after adding product to cart
+12/02/2025 10:28:49 PM: INFO: **************** Test HomePage *******************
+12/02/2025 10:28:55 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 10:29:05 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/02/2025 10:29:11 PM: INFO: *************** Test HomePage Title **********************
+12/02/2025 10:29:11 PM: INFO: *************** verifying Home page title  **********************
+12/02/2025 10:29:13 PM: INFO: *************** verified Home page title successfully **********************
+12/02/2025 10:29:18 PM: INFO: *************** Test Login **********************
+12/02/2025 10:29:18 PM: INFO: *************** verifying After login title  **********************
+12/02/2025 10:29:21 PM: INFO: *************** Login Successful **********************
+12/02/2025 10:29:26 PM: INFO: ******* Starting Login DDT Test **********
+12/02/2025 10:29:29 PM: INFO: Total rows: 5
+12/02/2025 10:29:29 PM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/02/2025 10:29:33 PM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/02/2025 10:29:35 PM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/02/2025 10:29:41 PM: INFO: Testing with username: kunmun, password: bittu
+12/02/2025 10:29:49 PM: INFO: **************** Test HomePage *******************
+12/02/2025 10:30:01 PM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/02/2025 10:30:11 PM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/03/2025 12:18:13 AM: INFO: **************** Test HomePage *******************
+12/03/2025 12:18:24 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/03/2025 12:18:34 AM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/03/2025 12:18:40 AM: INFO: *************** Test HomePage Title **********************
+12/03/2025 12:18:40 AM: INFO: *************** verifying Home page title  **********************
+12/03/2025 12:18:43 AM: INFO: *************** verified Home page title successfully **********************
+12/03/2025 12:18:47 AM: INFO: *************** Test Login **********************
+12/03/2025 12:18:47 AM: INFO: *************** verifying After login title  **********************
+12/03/2025 12:18:50 AM: INFO: *************** Login Successful **********************
+12/03/2025 12:18:55 AM: INFO: ******* Starting Login DDT Test **********
+12/03/2025 12:18:57 AM: INFO: Total rows: 5
+12/03/2025 12:18:57 AM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/03/2025 12:19:01 AM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/03/2025 12:19:03 AM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/03/2025 12:19:04 AM: INFO: Testing with username: kunmun, password: bittu
+12/03/2025 12:19:11 AM: INFO: **************** Test HomePage *******************
+12/03/2025 12:19:16 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/03/2025 12:19:19 AM: INFO: Alert handled successfully after adding product to cart
+12/03/2025 12:38:53 AM: INFO: **************** Test HomePage *******************
+12/03/2025 12:39:03 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/03/2025 12:39:06 AM: INFO: Alert handled successfully after adding product to cart
+12/03/2025 12:39:09 AM: INFO: we have successfully landed to Cart Page
+12/03/2025 12:39:13 AM: INFO: *************** Test HomePage Title **********************
+12/03/2025 12:39:13 AM: INFO: *************** verifying Home page title  **********************
+12/03/2025 12:39:16 AM: INFO: *************** verified Home page title successfully **********************
+12/03/2025 12:39:21 AM: INFO: *************** Test Login **********************
+12/03/2025 12:39:21 AM: INFO: *************** verifying After login title  **********************
+12/03/2025 12:39:23 AM: INFO: *************** Login Successful **********************
+12/03/2025 12:39:28 AM: INFO: ******* Starting Login DDT Test **********
+12/03/2025 12:39:30 AM: INFO: Total rows: 5
+12/03/2025 12:39:30 AM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/03/2025 12:39:34 AM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/03/2025 12:39:35 AM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/03/2025 12:39:37 AM: INFO: Testing with username: kunmun, password: bittu
+12/03/2025 12:39:44 AM: INFO: **************** Test HomePage *******************
+12/03/2025 12:39:48 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/03/2025 12:39:58 AM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/03/2025 12:44:59 AM: INFO: **************** Test HomePage *******************
+12/03/2025 12:45:08 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/03/2025 12:45:11 AM: INFO: Alert handled successfully after adding product to cart
+12/03/2025 12:45:14 AM: INFO: we have successfully landed to Cart Page
+12/03/2025 12:45:22 AM: INFO: *************** Test HomePage Title **********************
+12/03/2025 12:45:22 AM: INFO: *************** verifying Home page title  **********************
+12/03/2025 12:45:24 AM: INFO: *************** verified Home page title successfully **********************
+12/03/2025 12:45:29 AM: INFO: *************** Test Login **********************
+12/03/2025 12:45:29 AM: INFO: *************** verifying After login title  **********************
+12/03/2025 12:45:32 AM: INFO: *************** Login Successful **********************
+12/03/2025 12:45:36 AM: INFO: ******* Starting Login DDT Test **********
+12/03/2025 12:45:38 AM: INFO: Total rows: 5
+12/03/2025 12:45:38 AM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/03/2025 12:45:42 AM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/03/2025 12:45:43 AM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/03/2025 12:45:44 AM: INFO: Testing with username: kunmun, password: bittu
+12/03/2025 12:45:52 AM: INFO: **************** Test HomePage *******************
+12/03/2025 12:45:56 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/03/2025 12:45:58 AM: INFO: Alert handled successfully after adding product to cart
+12/03/2025 12:46:43 AM: INFO: **************** Test HomePage *******************
+12/03/2025 12:46:49 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/03/2025 12:46:59 AM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+
+12/03/2025 12:47:05 AM: INFO: *************** Test HomePage Title **********************
+12/03/2025 12:47:05 AM: INFO: *************** verifying Home page title  **********************
+12/03/2025 12:47:07 AM: INFO: *************** verified Home page title successfully **********************
+12/03/2025 12:47:12 AM: INFO: *************** Test Login **********************
+12/03/2025 12:47:12 AM: INFO: *************** verifying After login title  **********************
+12/03/2025 12:47:15 AM: INFO: *************** Login Successful **********************
+12/03/2025 12:47:20 AM: INFO: ******* Starting Login DDT Test **********
+12/03/2025 12:47:22 AM: INFO: Total rows: 5
+12/03/2025 12:47:22 AM: INFO: Testing with username: Rajat179284, password: Rajat12345@
+12/03/2025 12:47:25 AM: INFO: Testing with username: Rajat_k, password: Rajat12345@
+12/03/2025 12:47:27 AM: INFO: Testing with username: Rajat179284, password: ajgsf
+12/03/2025 12:47:28 AM: INFO: Testing with username: kunmun, password: bittu
+12/03/2025 12:47:36 AM: INFO: **************** Test HomePage *******************
+12/03/2025 12:47:40 AM: INFO: **************** Title is correct,We have sucessfully selected the products *******************
+12/03/2025 12:47:50 AM: ERROR: Error handling alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d5dda235
+	0x7ff6d5b32630
+	0x7ff6d58c16dd
+	0x7ff6d591a27e
+	0x7ff6d591a58c
+	0x7ff6d596ed77
+	0x7ff6d596baba
+	0x7ff6d590b0ed
+	0x7ff6d590bf63
+	0x7ff6d5e05d60
+	0x7ff6d5dffe8a
+	0x7ff6d5e21005
+	0x7ff6d5b4d71e
+	0x7ff6d5b54e1f
+	0x7ff6d5b3b7c4
+	0x7ff6d5b3b97f
+	0x7ff6d5b218e8
+	0x7ffa3ae1259d
+	0x7ffa3be8af78
+

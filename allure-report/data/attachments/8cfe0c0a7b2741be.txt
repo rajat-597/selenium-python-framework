@@ -1,0 +1,6 @@
+[32mINFO    [0m automation:test_Login_ddt.py:18 ******* Starting Login DDT Test **********
+[32mINFO    [0m automation:test_Login_ddt.py:25 Total rows: 5
+[32mINFO    [0m automation:test_Login_ddt.py:34 Testing with username: Rajat179284, password: Rajat12345@
+[32mINFO    [0m automation:test_Login_ddt.py:34 Testing with username: Rajat_k, password: Rajat12345@
+[32mINFO    [0m automation:test_Login_ddt.py:34 Testing with username: Rajat179284, password: ajgsf
+[32mINFO    [0m automation:test_Login_ddt.py:34 Testing with username: kunmun, password: bittu

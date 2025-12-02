@@ -1,0 +1,3 @@
+[32mINFO    [0m automation:test_Login.py:14 *************** Test HomePage Title **********************
+[32mINFO    [0m automation:test_Login.py:15 *************** verifying Home page title  **********************
+[32mINFO    [0m automation:test_Login.py:21 *************** verified Home page title successfully **********************
