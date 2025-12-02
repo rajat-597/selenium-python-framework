@@ -1,7 +1,11 @@
 import configparser
+import os
 
 config = configparser.RawConfigParser()
-config.read(".\\Configurations\\config.ini")
+# Correct cross-platform path
+config_path = os.path.join(os.path.dirname(__file__), "config.ini")
+config.read(config_path)
+#config.read(".\\Configurations\\config.ini")
 
 class ReadConfig:
     @staticmethod
