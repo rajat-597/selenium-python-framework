@@ -2,10 +2,14 @@ import configparser
 import os
 
 config = configparser.RawConfigParser()
-# Correct cross-platform path
-config_path = os.path.join(os.path.dirname(__file__), "config.ini")
+# Get project root (two levels up from this file)
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# Build correct absolute path: <PROJECT_ROOT>/Configurations/config.ini
+config_path = os.path.join(project_root, "Configurations", "config.ini")
 config.read(config_path)
-#config.read(".\\Configurations\\config.ini")
+#config.read(".\\Configurations\\config.ini") # for windows
+
 
 class ReadConfig:
     @staticmethod
